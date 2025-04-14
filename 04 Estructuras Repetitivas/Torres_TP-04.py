@@ -1,4 +1,4 @@
-# Práctico 3: Estructuras repetitivas
+# Práctico 4: Estructuras repetitivas
 # Alumno: Angel Fernando TORRES
 
 # 1) Crea un programa que imprima en pantalla todos los números enteros desde 0 hasta 100
