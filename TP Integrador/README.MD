@@ -17,4 +17,7 @@ Este repositorio trata sobre el Trabajo Práctico Integrador. Su tema principal 
 Evaluar y calificar con 10 a los estudiantes :D
 
 📌 **Reflexiones del equipo:**  
-Se aprendieron diversos algoritmos con diferentes niveles de eficiencia.
+Se aprendieron diversos algoritmos con diferentes niveles de eficacia.
+
+🔗 **Link al video presentación:**
+https://youtu.be/qu_ImBaPkbg
