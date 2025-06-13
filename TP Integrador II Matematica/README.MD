@@ -19,3 +19,4 @@ Se dividieron las tareas mitad y mitad. En el video explicativo se puede aprecia
 Las expresiones lógicas desarrolladas fueron plasmadas como base para implementar condicionales en el script de Python. Esta expresiones lógicas fueron traducidas a estructuras de control if, en adición a operaciones sobre conjuntos, para que el script evalúe de manera automática las condiciones planteadas.
 
 🔗 **Link al video presentación:**
+https://youtu.be/0YQTdjGo6fY
